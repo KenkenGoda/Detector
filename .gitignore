@@ -125,4 +125,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
+# Others
+CDBS/
+Citation/
+ExEP Technology Colloquium Series /
+Figure/
+Memo/
+Simulation/
+others/
+raytheon/
